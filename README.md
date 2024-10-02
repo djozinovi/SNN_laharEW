@@ -7,4 +7,4 @@ The trained model is available as "finalTrainedModel.keras"
 
 # Paper and images
 The pre-print of the paper is available at _________ <br>
-The figures of the events are available at https://drive.google.com/drive/folders/1R3Y_njQWZc81fCOcHiALQRrQuk29yffx
+The figures of the events are available at https://zenodo.org/records/13348112
