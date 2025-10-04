@@ -6,5 +6,5 @@ The code is available in training.py (with the pre-trained model being "FirstWor
 The trained model is available as "finalTrainedModel.keras"
 
 # Paper and images
-The pre-print of the paper is available at _________ <br>
+The paper is available at https://doi.org/10.1785/0220250097 <br>
 The figures of the events are available at https://zenodo.org/records/13348112
